@@ -2,3 +2,5 @@
 * Uranus
 * Jupiter
 * Venus
+* Mars
+* Merkur
